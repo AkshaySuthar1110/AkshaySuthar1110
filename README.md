@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshaySuthar1110
-- 👀 I’m interested in Graphic Designer
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in Cybersecurity 
+- 🌱 I’m currently learning Linux
 - 📫 How to reach me https://www.instagram.com/akshaysuthar4277?r=nametag
 
 <!---
